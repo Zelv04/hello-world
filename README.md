@@ -3,4 +3,4 @@ Just training
 
 
 Hi, humans!
-I leaning Java because I wont to be the programmer for small age and I wont earn a lot for to realise all of my goals of life.
+I study Python and AI because I want to be a programmer and earn a lot of money to achieve my goals.
