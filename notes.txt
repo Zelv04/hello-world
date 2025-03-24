@@ -1,0 +1,2 @@
+This is my first text file on GitHub.
+Studying to work with repos :)
